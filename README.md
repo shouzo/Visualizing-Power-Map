@@ -1,1 +1,1 @@
-# Visuailzing-Power-Map
+# Visualizing-Power-Map
