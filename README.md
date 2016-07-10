@@ -48,6 +48,6 @@
 
 
 
-## 所有參考文獻
+## 參考文獻
 * 20160704 - [Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)
 
