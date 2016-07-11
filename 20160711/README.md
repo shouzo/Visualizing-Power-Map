@@ -2,10 +2,9 @@
 
 ## 本日進度
 - [x] 一、新增測試用 Google Map App
-	[x]（一）新增 Google Map App 專案
-	[x]（二）啟動 Google Map
-
-- 參考資料
+  * （一）新增 Google Map App 專案
+  * （二）啟動 Google Map
+* 參考資料
   	**[Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)**
 
 
