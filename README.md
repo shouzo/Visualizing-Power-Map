@@ -22,7 +22,7 @@
 
 ## 功能
 
-### (1)建立資料模型
+### (1) 建立資料模型
 * Google map 抓路徑
 	* 從A點到B點(google地圖)，事先預測路況、轉換成縱面圖(有海拔差高度、路徑圖)
 			* 全部紀錄(長條圖)
@@ -33,12 +33,12 @@
 
 
 
-### (2)查表
+### (2) 查表
 ![](https://i.imgur.com/XLcXnSV.jpg)
 
 
 
-### (3)最省電路徑
+### (3) 最省電路徑
 ![](https://i.imgur.com/xmEG8nX.jpg)
 
 
@@ -46,5 +46,5 @@
 
 
 ## 參考文獻
-* 20160704 - [Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)
+* 20160711 - [Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)
 
