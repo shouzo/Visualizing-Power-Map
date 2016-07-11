@@ -16,7 +16,7 @@
 	* MapsActivity.java：地圖元件。
 	* activity_maps.xml：地圖元件使用的畫面資源檔。
 1. 在 googlemapsapi.xml中加入 API Key：
-![](\assets\20160711\1.png)
+![](/20160711/assets/1.png)
 	* API Key：**AIzaSyCDh21DwDgDg3Ty70uSkn_jhgLNXUvumT8**
 2. 加入Google Play Service SDK的設定：
 	* Gradle Scripts -> build.gradle(Module:app)：在「dependencies」區塊。
@@ -34,13 +34,13 @@
 
 
 [預覽畫面]
-![](/assets/Screenshot_20160711-160546.png)
+![](/20160711/assets/Screenshot_20160711-160546.png)
 
-![](/assets/Screenshot_20160711-160555.png)
+![](/20160711/assets/Screenshot_20160711-160555.png)
 
-![](/assets/Screenshot_20160711-160605.png)
+![](/20160711/assets/Screenshot_20160711-160605.png)
 
-![](/assets/Screenshot_20160711-160626.png)
+![](/20160711/assets/Screenshot_20160711-160626.png)
 
 
 
