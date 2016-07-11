@@ -34,13 +34,13 @@
 
 
 [預覽畫面]
-![](\assets\20160711\Screenshot_20160711-160546.png)
+![](\assets\Screenshot_20160711-160546.png)
 
-![](\assets\20160711\Screenshot_20160711-160555.png)
+![](\assets\Screenshot_20160711-160555.png)
 
-![](\assets\20160711\Screenshot_20160711-160605.png)
+![](\assets\Screenshot_20160711-160605.png)
 
-![](\assets\20160711\Screenshot_20160711-160626.png)
+![](\assets\Screenshot_20160711-160626.png)
 
 
 

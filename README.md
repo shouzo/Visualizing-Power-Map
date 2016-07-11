@@ -1,11 +1,8 @@
 # Visualizing-Power-Map    視覺化電動機車能量地圖專題
 
 ## 目前進度
- - [x] 20160704 新增資料草稿(1)
-  - [x] 開始找尋相關資料，已參考的資料有：
-  *  **[Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)**
-  
- - [ ] 20160711 建立實體架構(2)
+- [x] 20160704 - 新增資料草稿
+- [x] [20160711 - 新增測試用 Google Map App](\20160711\README.md)
 
 
 
