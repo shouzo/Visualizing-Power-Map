@@ -3,11 +3,13 @@
 ## 目前進度
 - [x] [20160704 - 新增資料草稿](/20160704)
 - [x] [20160711 - 新增測試用 Google Map App](/20160711/README.md)
+- [x] [20160721 - 新增"位置資訊查詢APP"(Demo)](/20160721/README.md)
 
 
 
 
 ## 前言
+* 關於本專題的介紹：[視覺化電動機車運行能量地圖](https://shouzo.github.io/collections/data-science/20160617-MapProject-1.html#/)
 
 
 ## 分析單趟充放電能耗、電量
@@ -47,4 +49,5 @@
 
 ## 參考文獻
 * 20160711 - [Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)
+* 20160721 - [Android 6-5.x APP 開發教戰手冊](http://www.books.com.tw/products/0010693225) - CH10
 
