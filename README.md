@@ -1,13 +1,15 @@
 # Visualizing-Power-Map    視覺化電動機車能量地圖專題
 
 ## 目前進度
-- [x] [20160704 - 新增資料草稿](/20160711)
+- [x] [20160704 - 新增資料草稿](/20160704)
 - [x] [20160711 - 新增測試用 Google Map App](/20160711/README.md)
+- [x] [20160721 - 新增"位置資訊查詢APP"(Demo)](/20160721/README.md)
 
 
 
 
 ## 前言
+* 關於本專題的介紹：[視覺化電動機車運行能量地圖](https://shouzo.github.io/collections/data-science/20160617-MapProject-1.html#/)
 
 
 ## 分析單趟充放電能耗、電量
@@ -25,8 +27,8 @@
 ### (1) 建立資料模型
 * Google map 抓路徑
 	* 從A點到B點(google地圖)，事先預測路況、轉換成縱面圖(有海拔差高度、路徑圖)
-			* 全部紀錄(長條圖)
-				* 例如：起始座標, 結束座標, 距離, 高度差
+		* 全部紀錄(長條圖)
+		* 例如：起始座標, 結束座標, 距離, 高度差
 ![](https://i.imgur.com/9TO9pQh.jpg)
 
 
@@ -47,4 +49,5 @@
 
 ## 參考文獻
 * 20160711 - [Android Tutorial 第四堂（2）設計地圖應用程式 - Google Maps Android API v2](http://www.codedata.com.tw/mobile/android-tutorial-the-4th-class-google-maps-android-api-v2/)
+* 20160721 - [Android 6-5.x APP 開發教戰手冊](http://www.books.com.tw/products/0010693225) - CH10
 

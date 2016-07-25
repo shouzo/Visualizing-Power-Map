@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">位置資訊查詢APP</string>   // LocationServicesDemo
+    <string name="hint_etLocationName">請輸入位置名稱或地址</string>    // Location name or address
+    <string name="text_btDistance">計算距離</string>  // Distance
+    <string name="text_btDirect">進行導航</string>       // Direct
+    <string name="msg_LastLocationNotAvailable">The last location is not available, please wait for a while</string>
+    <string name="msg_GoogleApiClientConnectionFailed">GoogleApiClient connection failed</string>
+    <string name="msg_GoogleApiClientConnectionSuspended">GoogleApiClient connection suspended</string>
+    <string name="msg_LocationNotAvailable">Location is not available</string>
+    <string name="msg_InvalidInput">Invalid input</string>
+    <string name="text_ShouldGrant">Permission to access location should be granted</string>
+
+</resources>
