@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/shouzo/GitHub/Visualizing-Power-Map/20160810/TutorialHTTPGet/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="11b73ddc8962f736b5a644ae37396390d12282ea">
+        <dex dex="/home/shouzo/GitHub/Visualizing-Power-Map/20160810/TutorialHTTPGet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_fe1616570f298d674e7c1da4980c693ef3847433/classes.dex" />
+    </item>
+    <item
+        jar="/home/shouzo/GitHub/Visualizing-Power-Map/20160810/TutorialHTTPGet/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0"
+        sha1="a752360f86b549be29c81ef7bc785f61da80798a">
+        <dex dex="/home/shouzo/GitHub/Visualizing-Power-Map/20160810/TutorialHTTPGet/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_e5d233e87ca062151fbf35f0382d668218fc0545/classes.dex" />
+    </item>
+
+</items>
