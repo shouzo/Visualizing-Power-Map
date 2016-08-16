@@ -1,16 +1,16 @@
 # 20160810 - 將在 Google API 網頁上顯示的 JSON 資料回傳到 APP 上    
 
-* 參考資料：
+### 參考資料：
 1. [Google Maps API Web Service](https://developers.google.com/maps/web-services/overview)
 2. Network Connection
-		(1) [Android - Network Connection Tutorial](http://www.tutorialspoint.com/android/android_network_connection.htm)
+	(1) [Android - Network Connection Tutorial](http://www.tutorialspoint.com/android/android_network_connection.htm)
 3. How to Parse JSON？ 
-		(1) [Android - JSON Parser Tutorial](http://www.tutorialspoint.com/android/android_json_parser.htm)
-		(2) [JSON Parsing in Android using Android Studio](http://mobilesiri.com/json-parsing-in-android-using-android-studio/)
-		(3) [JSON Parsing, JSONObjects & JsonArrays, HttpUrlConnection - Android Studio](https://www.youtube.com/watch?v=frltqnSKqiA&index=11&list=PLgjt1h_kabFebUn1anGYZ6_Tfkw64Ww12)
-		(4) [JSON Parsing, Creating a URLConnection - Android Studio](https://www.youtube.com/watch?v=Gyaay7OTy-w)
-		(5) [Android - HttpURLConnection 基本教學 取得網頁資料'HTML, XML, JSON'](http://wannadoitnow.blogspot.tw/2015/10/android-httpurlconnection-httprequest.html)
-		(6)[Android高效入門－讀取JSON資料與okHttp](http://litotom.com/2016/05/15/android-json-okhttp/)
+	(1) [Android - JSON Parser Tutorial](http://www.tutorialspoint.com/android/android_json_parser.htm)
+	(2) [JSON Parsing in Android using Android Studio](http://mobilesiri.com/json-parsing-in-android-using-android-studio/)
+	(3) [JSON Parsing, JSONObjects & JsonArrays, HttpUrlConnection - Android Studio](https://www.youtube.com/watch?v=frltqnSKqiA&index=11&list=PLgjt1h_kabFebUn1anGYZ6_Tfkw64Ww12)
+	(4) [JSON Parsing, Creating a URLConnection - Android Studio](https://www.youtube.com/watch?v=Gyaay7OTy-w)
+	(5) [Android - HttpURLConnection 基本教學 取得網頁資料'HTML, XML, JSON'](http://wannadoitnow.blogspot.tw/2015/10/android-httpurlconnection-httprequest.html)
+	(6)[Android高效入門－讀取JSON資料與okHttp](http://litotom.com/2016/05/15/android-json-okhttp/)
 4. [Android 6 變形金剛 - Android6CookbookPowenko](https://github.com/powenko/Android6CookbookPowenko) - Ch12 : TutorialHTTPGet
 
 
